@@ -1,0 +1,85 @@
+header {
+    background: tomato;
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+header h1 {
+
+}
+.nav-1 {
+    background: tomato;
+    margin: 10px;
+    padding: 20px;
+}
+.nav-1 ul {
+    display: flex;
+}
+.nav-1 ul li {
+    list-style: none;
+    margin: 10px;
+}
+main {
+    display: flex;
+}
+section {
+    width: 70%;
+    background: tomato;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+section h1 {
+
+}
+article {
+    background: blueviolet;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+}
+article img {
+    width: 600px;
+}
+aside {
+    width: 30%;
+    background:tomato ;
+    margin: 10px;
+    padding:20px;
+    box-sizing: border-box;
+}
+aside p {
+    font-size: 20px;
+}
+.nav-2 {
+    background: paleturquoise;
+    margin: 10px;
+    padding: 20px;
+}
+.nav-2 ul {
+    display: flex;
+}
+.nav-2 ul li {
+    list-style: none;
+    margin: 10px;
+}
+.video {
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.video iframe {
+
+}
+footer {
+    background: tomato;
+    margin: 10px;
+    padding: 20px;
+}
+footer ul {
+    display: flex;
+}
+footer ul li {
+    list-style: none;
+    margin: 10px;
+}
